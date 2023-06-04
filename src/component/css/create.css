@@ -1,0 +1,64 @@
+.habbit-input{
+    margin-left: 15rem;
+    margin-top: 2rem;
+    height: 250px;
+    width: 400px;
+    border: 1px solid saddlebrown;
+    text-align:center;
+    border-radius: 20px;
+    background-color:black;
+    color:white;
+}
+.date{
+    width: 165px;
+    margin-top: 5px;
+}
+.date-select{
+    margin-top: 20px;
+    color:aqua;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.header{
+    color:aquamarine;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.marker{
+    margin-top: 10px;
+    font-size: 25px;
+    color:chartreuse;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.done{
+    
+    color:greenyellow;
+}
+.not-done{
+
+    color:red;
+}
+.none{
+
+    color:yellow;
+}
+.btn{
+    background-color: blueviolet;
+    width: 90px;
+    margin-top: 25px;
+    color:brown;
+    border-radius: 25px;
+    font-weight: bolder;
+}
+h5{
+    text-transform: capitalize;
+    font-size: 20px;
+    color:coral;
+    font-style: italic;
+}
+input{
+    text-align: center;
+    text-transform: capitalize;
+    color:peru;
+}

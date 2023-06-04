@@ -1,0 +1,33 @@
+.view-template{
+    display: flex;
+    flex-wrap: wrap;
+    gap:8px;
+}
+.view-thing{
+    margin-left: 12px;
+    margin-top: 2rem;
+    height: 220px;
+    width: 350px;
+    border: 1px solid saddlebrown;
+    text-align: center;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    
+    
+}
+.not-Done{
+    color: red;
+}
+.progress-report{
+    font-size: smaller;
+    color:antiquewhite
+}
+.marker{
+    display: flex;
+    margin-left: 15px;
+}
+.date{
+    display: inline;
+    color:brown;
+}

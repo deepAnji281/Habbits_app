@@ -1,0 +1,55 @@
+.nav-bar{
+    height: 80px;
+    width: 1290px;
+    background-color: gray;
+    margin:2px;
+    display:flex;
+    gap:30px;
+    
+}
+h2{
+    margin-left: 10px;
+    font-size: 30px;
+    color:rgb(163, 51, 11);
+    font-style: italic;
+    
+    
+    
+    
+    
+}
+h2:hover{
+    color:blueviolet
+}
+.nav-item{
+    display: flex;
+    gap:30px;
+    
+    
+
+}
+h3{
+    color:cornflowerblue
+}
+h3:hover{
+    color:chartreuse
+}
+h1{
+    text-align: center;
+    margin-left: 100px;
+    color:lightblue;
+    font-style: italic;
+    font-size:40px;
+}
+h1:hover{
+    color:aqua;
+}
+h4{
+    margin-left: 325px;
+    color:lightpink;
+    font-style: italic;
+    text-transform: capitalize;
+}
+h4:hover{
+    color:aqua;
+}

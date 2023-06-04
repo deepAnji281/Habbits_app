@@ -1,0 +1,33 @@
+img{
+    height: 30px;
+    width: 30px;
+    
+}
+button{
+    border-radius: 50%;
+
+    
+}
+.buttons{
+    display: flex;
+    gap:20px;
+    justify-content: flex-end;
+    margin-right: 90px;
+    margin-top: 10px;
+}
+.deleteAll{
+    height: 30px;
+    width: 150px;
+    border-radius:20px;
+    margin-top: 20px;
+    margin-left: 30rem;
+    background-color: antiquewhite;
+}
+.deleteAll:hover{
+    background-color: aqua;
+}
+.edit{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
