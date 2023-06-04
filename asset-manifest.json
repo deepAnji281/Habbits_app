@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Habbits_app/static/css/main.907d7db7.css",
-    "main.js": "/Habbits_app/static/js/main.16f1542b.js",
+    "main.js": "/Habbits_app/static/js/main.8e6e41dc.js",
     "static/js/787.64ccc4b5.chunk.js": "/Habbits_app/static/js/787.64ccc4b5.chunk.js",
     "static/media/delete.png": "/Habbits_app/static/media/delete.bcf1b933bd9d3b623005.png",
     "index.html": "/Habbits_app/index.html",
     "main.907d7db7.css.map": "/Habbits_app/static/css/main.907d7db7.css.map",
-    "main.16f1542b.js.map": "/Habbits_app/static/js/main.16f1542b.js.map",
+    "main.8e6e41dc.js.map": "/Habbits_app/static/js/main.8e6e41dc.js.map",
     "787.64ccc4b5.chunk.js.map": "/Habbits_app/static/js/787.64ccc4b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.907d7db7.css",
-    "static/js/main.16f1542b.js"
+    "static/js/main.8e6e41dc.js"
   ]
 }
